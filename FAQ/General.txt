@@ -1,0 +1,8 @@
+Q: What are the hours of operation for your restaurant?
+A: Our restaurant is open from 11 a.m. to 10 p.m. from Monday to Saturday. On Sundays, we open at 12 p.m. and close at 9 p.m.
+
+Q: What type of cuisine does your restaurant serve?
+A: Our restaurant specializes in contemporary American cuisine with an emphasis on local and sustainable ingredients.
+
+Q: Do you offer vegetarian or vegan options?
+A: Yes, we have a range of dishes to cater to vegetarians and vegans. Please let our staff know about any dietary restrictions you have when you order.
