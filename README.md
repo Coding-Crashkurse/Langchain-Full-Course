@@ -2,11 +2,11 @@
 
 This repository contains course materials for learning the Langchain concepts. Below are the Jupyter notebooks used in the course with a brief description of each:
 
-- **models_prompts_parsers.ipynb:** This notebook delves into the basics of models in Langchain, with a focus on prompts and parsers.
-
 - **models_basics.ipynb:** This notebook introduces the fundamental concepts of models in Langchain, detailing their structure and functionality.
 
-- **chains.ipynb:** This notebook introduces chains in Langchain, elucidating their function and importance in the structure of the language model.
+- **models_prompts_parsers.ipynb:** This notebook delves into the basics of models in Langchain, with a focus on prompts and parsers.
+
+- **chains.ipynb:** This notebook introduces chains in Langchain, elucidating their function and importance in the structure of the language model. We learn about the different types of chain and their use.
 
 - **chatgpt_plugins.ipynb:** This notebook provides an overview of how to utilize plugins with ChatGPT in Langchain for enhanced functionality.
 
@@ -19,4 +19,4 @@ This repository contains course materials for learning the Langchain concepts. B
 - **evaluation.ipynb:** This notebook discusses the methods and strategies for evaluating performance in Langchain.
 
 _Note: The descriptions above are general and might not fully capture the content of each notebook. Please refer to the notebooks themselves for detailed information._
-"# Langchain-Full-Course" 
+"# Langchain-Full-Course"
