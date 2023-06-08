@@ -8,15 +8,14 @@ This repository contains course materials for learning the Langchain concepts. B
 
 - **chains.ipynb:** This notebook introduces chains in Langchain, elucidating their function and importance in the structure of the language model. We learn about the different types of chain and their use.
 
-- **chatgpt_plugins.ipynb:** This notebook provides an overview of how to utilize plugins with ChatGPT in Langchain for enhanced functionality.
+- **memory.ipynb:** This notebook explores the memory aspects of Langchain, explaining how data is stored and retrieved.
 
 - **indexes.ipynb:** This notebook covers the concept of indexes in Langchain, focusing on their creation, usage, and maintenance.
 
-- **memory.ipynb:** This notebook explores the memory aspects of Langchain, explaining how data is stored and retrieved.
-
 - **agents.ipynb:** This notebook explains the concept of agents in Langchain, covering how they interact and communicate within the system.
+
+- **chatgpt_plugins.ipynb:** This notebook provides an overview of how to utilize plugins with ChatGPT in Langchain for enhanced functionality.
 
 - **evaluation.ipynb:** This notebook discusses the methods and strategies for evaluating performance in Langchain.
 
 _Note: The descriptions above are general and might not fully capture the content of each notebook. Please refer to the notebooks themselves for detailed information._
-"# Langchain-Full-Course"
