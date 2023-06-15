@@ -18,4 +18,6 @@ This repository contains course materials for learning the Langchain concepts. B
 
 - **evaluation.ipynb:** This notebook discusses the methods and strategies for evaluating performance in Langchain.
 
+- **functions.ipynb:** This notebook discusses the new 'Function Calling' functionality of OpenAI.
+
 _Note: The descriptions above are general and might not fully capture the content of each notebook. Please refer to the notebooks themselves for detailed information._
