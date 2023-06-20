@@ -1,1 +1,5 @@
 .env
+.venv
+venv
+./API_Project/app/__pycache__
+**/**/*.pyc
