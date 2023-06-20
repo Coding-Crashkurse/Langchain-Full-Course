@@ -1,0 +1,9 @@
+langchain
+openai
+faiss-cpu
+python-dotenv
+fastapi
+uvicorn
+requests
+jupyter
+notebook
