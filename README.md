@@ -20,6 +20,8 @@ This repository contains course materials for learning the Langchain concepts. B
 
 - **functions.ipynb:** This notebook discusses the new 'Function Calling' functionality of OpenAI.
 
-- **open_source_chain.ipynb:** This notebook contains code with Langchain which uses a Falcon 7B Model
+- **open_source_chain.ipynb:** This notebook contains code with Langchain which uses a Falcon 7B Model.
+
+- **doctran.ipynb** This notebook contains code that shows how to preprocess data with DocTran.
 
 _Note: The descriptions above are general and might not fully capture the content of each notebook. Please refer to the notebooks themselves for detailed information._
